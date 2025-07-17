@@ -1,801 +1,401 @@
 model,batch_size,id,latency_ns
-llama3_70b,128,18,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178720     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,19,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170592     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,21,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179424     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,13,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      181088     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,12,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174560     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,1,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174112     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,100,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176256     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,22,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      171104     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,15,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      180992     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,14,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      182816     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,20,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177088     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,17,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175936     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,10,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172032     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,16,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176352     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,2,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170080     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,11,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176192     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,25,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177472     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,23,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      163840     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,24,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      180256     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,32,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177632     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,26,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170208     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,33,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179648     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,27,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      169664     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,29,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177024     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,31,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      182592     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,3,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      181312     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,28,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174176     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,30,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      183136     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,35,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174656     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,37,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174016     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,36,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      167616     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,34,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176928     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,40,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179872     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,41,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      173312     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,4,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177248     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,44,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179456     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,43,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170272     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,39,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      173696     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,47,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      184064     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,46,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172960     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,45,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      169536     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,48,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177152     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,49,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172320     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,38,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      181696     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,42,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      169024     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,5,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      181536     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,50,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179168     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,51,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      164256     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,53,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170336     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,56,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172832     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,52,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      171392     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,54,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      180352     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,58,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175136     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,59,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178624     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,55,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      187232     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,6,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      177248     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,60,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      185215     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,61,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170944     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,57,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178016     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,63,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      182560     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,62,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      169088     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,64,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175520     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,65,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178944     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,66,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172512     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,68,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174912     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,7,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      165088     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,67,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175008     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,70,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176320     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,72,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175904     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,73,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176480     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,74,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175136     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,69,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179840     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,75,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      184416     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,71,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      187936     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,79,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172512     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,78,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      184096     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,8,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172160     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,77,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      171424     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,80,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175872     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,76,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176800     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,81,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      179968     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,82,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175168     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,83,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174528     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,84,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      186240     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,85,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      170880     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,9,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      169856     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,88,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      186080     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,91,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178208     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,90,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      176448     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,86,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      174336     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,92,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      184832     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,87,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      166848     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,94,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      178656     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,93,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      173056     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,95,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      184032     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,89,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      187264     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,96,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      164832     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,98,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      175136     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,97,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172640     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,1,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26496     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,128,99,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0      172096     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,10,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26368     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,12,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21216     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,11,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21920     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,100,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       30304     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,13,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28384     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,14,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20320     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,16,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24832     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,15,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24832     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,19,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26208     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,18,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27264     0.125   120     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,17,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       22080     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,2,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24544     0.125   121     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,20,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       33056     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,21,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26080     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,22,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23744     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,23,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25248     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,24,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25856     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,27,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23232     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,29,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27712     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,25,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21984     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,26,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       30496     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,28,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20800     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,30,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       18720     0.125   115     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,3,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24864     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,31,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25888     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,32,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       19072     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,33,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25216     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,35,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       29600     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,34,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23136     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,36,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20416     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,38,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24256     0.125   120     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,37,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23456     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,39,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27072     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,40,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23488     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,4,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25792     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,41,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25088     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,42,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28544     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,43,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28672     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,45,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26720     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,44,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24384     0.125   120     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,46,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       14528     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,47,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21856     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,48,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21632     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,49,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25536     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,5,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20160     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,50,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       31392     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,53,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21760     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,52,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       14624     0.125   115     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,51,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23040     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,54,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27072     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,55,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24128     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,56,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       30752     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,58,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21408     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,57,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25600     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,59,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26528     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,60,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       19360     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,6,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27136     0.125   121     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,62,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27296     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,61,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23392     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,63,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21440     0.125   118     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,64,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28512     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,65,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21408     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,67,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25760     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,66,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28128     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,68,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26368     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,7,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20320     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,70,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       31712     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,72,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24704     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,75,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25216     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,73,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27296     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,77,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28416     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,74,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25056     0.125   121     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,69,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28896     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,71,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       22848     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,76,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25344     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,79,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21760     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,78,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24736     0.125   121     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,8,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26592     0.125   119     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,81,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27008     0.125   120     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,80,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       28640     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,82,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       18592     0.125   117     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,83,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       31968     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,84,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23488     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,85,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       20320     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,90,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       26304     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,87,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       27296     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,88,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25952     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,86,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       30048     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,91,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       21248     0.125   120     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,9,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23072     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,89,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       24320     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,92,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       30400     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,93,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       17536     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,94,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23328     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,95,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       23264     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,98,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       32960     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,97,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       29536     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,99,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       19872     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,1,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45024     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,10,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       40640     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,100,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44672     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,16,96,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       25088     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,13,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50720     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,14,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50688     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,11,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48448     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,12,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46656     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,15,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47872     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,16,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       42496     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,17,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50528     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,18,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       43328     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,19,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45568     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,20,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49888     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,2,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48064     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,21,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50176     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,22,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44864     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,23,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50304     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,24,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47328     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,25,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45376     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,27,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       42016     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,26,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       53024     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,28,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52448     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,29,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48256     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,3,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48608     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,30,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51360     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,31,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       54368     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,34,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46976     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,35,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       42912     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,33,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46432     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,32,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45120     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,36,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47296     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,37,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44192     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,4,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48928     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,39,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49376     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,38,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46816     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,40,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52224     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,41,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51200     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,42,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       42688     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,43,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50976     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,44,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46112     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,45,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50400     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,46,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51648     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,47,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50560     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,48,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50432     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,49,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48192     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,50,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51616     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,5,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46976     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,51,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44928     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,52,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52576     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,53,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47648     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,54,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44480     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,55,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       44320     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,56,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45984     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,57,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50976     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,58,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       42336     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,59,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45760     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,6,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       54368     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,60,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       43456     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,61,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51680     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,63,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49344     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,64,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52512     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,65,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48736     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,66,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       46496     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,67,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       37696     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,69,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       53728     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,68,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48896     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,62,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       37344     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,7,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49152     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,70,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       54144     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,71,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       43424     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,72,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49408     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,73,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       40864     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,74,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48768     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,75,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       55712     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,76,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       51072     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,77,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       43200     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,78,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50048     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,79,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52416     0.125   122     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,8,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48736     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,82,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47136     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,80,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       41376     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,81,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       53088     0.125   124     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,84,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       47936     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,83,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48704     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,85,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       54880     0.125   123     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,86,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50912     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,87,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       57760     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,88,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45728     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,89,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48448     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,9,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       58240     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,90,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       41760     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,91,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       45760     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,92,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       40864     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,93,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       48256     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,95,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       41344     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,94,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       52064     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,97,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       49248     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,96,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       41408     0.125   125     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,1,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       72320     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,99,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       50976     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,10,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       78528     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,32,98,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       43520     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,100,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       81856     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,11,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85344     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,12,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87552     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,13,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       97376     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,14,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       80320     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,15,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82624     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,16,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87456     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,18,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       77216     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,17,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82368     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,2,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83232     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,22,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82688     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,20,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84064     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,19,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       88768     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,21,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87456     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,23,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       86240     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,24,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       88096     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,25,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84928     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,26,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85152     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,27,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84704     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,28,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92416     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,29,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82144     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,3,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       77728     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,31,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       89376     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,33,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       95200     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,34,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       89728     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,36,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       80832     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,35,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84544     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,37,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82240     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,30,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92192     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,39,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87808     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,32,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       77888     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,4,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85632     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,38,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83712     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,40,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       93664     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,41,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83712     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,42,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       86784     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,43,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       89760     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,44,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92416     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,46,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82368     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,45,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       76736     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,47,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83360     0.125   127     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,50,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85312     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,5,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       81216     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,49,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       94720     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,51,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85920     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,52,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       86624     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,53,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85152     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,54,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       90752     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,48,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       80224     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,55,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87136     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,56,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82400     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,57,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       89760     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,59,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87296     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,60,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84128     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,6,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       74624     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,61,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84480     0.125   126     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,58,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       79040     0.125   128     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,62,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       79616     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,63,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       91360     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,65,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87424     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,64,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       80896     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,66,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85120     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,67,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       93056     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,68,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       88320     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,7,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85792     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,69,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83680     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,70,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       75520     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,71,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       78016     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,72,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       77760     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,73,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       91424     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,74,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       85216     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,76,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       90016     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,75,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92448     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,78,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       86816     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,8,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82848     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,79,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       88512     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,80,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       88512     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,81,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92736     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,82,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       82336     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,77,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       94784     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,84,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87040     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,83,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       90464     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,85,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       90304     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,86,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87424     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,87,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       92160     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,88,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       78880     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,89,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       91520     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,9,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       84000     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,90,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       81120     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,91,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       76800     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,93,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       79904     0.125   129     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,92,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       91488     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,94,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       87168     0.125   131     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,95,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       83968     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,96,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       95424     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,97,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       89344     0.125   130     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,98,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       90656     0.125   132     1     2      32       1       4                  182                  0               69632"
-llama3_70b,64,99,"   tokens  latency_ns occupancy gridX gridY gridZ  blockX  blockY  blockZ  register_per_trhead  static_shared_mem  dyanmic_shared_mem
-0       0       86112     0.125   131     1     2      32       1       4                  182                  0               69632"
+llama3_70b,128,100,176256
+llama3_70b,128,18,178720
+llama3_70b,128,1,174112
+llama3_70b,128,19,170592
+llama3_70b,128,10,172032
+llama3_70b,128,15,180992
+llama3_70b,128,21,179424
+llama3_70b,128,22,171104
+llama3_70b,128,14,182816
+llama3_70b,128,20,177088
+llama3_70b,128,2,170080
+llama3_70b,128,11,176192
+llama3_70b,128,12,174560
+llama3_70b,128,16,176352
+llama3_70b,128,13,181088
+llama3_70b,128,17,175936
+llama3_70b,128,26,170208
+llama3_70b,128,27,169664
+llama3_70b,128,31,182592
+llama3_70b,128,29,177024
+llama3_70b,128,24,180256
+llama3_70b,128,28,174176
+llama3_70b,128,25,177472
+llama3_70b,128,3,181312
+llama3_70b,128,23,163840
+llama3_70b,128,33,179648
+llama3_70b,128,35,174656
+llama3_70b,128,34,176928
+llama3_70b,128,32,177632
+llama3_70b,128,30,183136
+llama3_70b,128,36,167616
+llama3_70b,128,37,174016
+llama3_70b,128,38,181696
+llama3_70b,128,4,177248
+llama3_70b,128,39,173696
+llama3_70b,128,41,173312
+llama3_70b,128,42,169024
+llama3_70b,128,43,170272
+llama3_70b,128,48,177152
+llama3_70b,128,46,172960
+llama3_70b,128,45,169536
+llama3_70b,128,44,179456
+llama3_70b,128,49,172320
+llama3_70b,128,47,184064
+llama3_70b,128,40,179872
+llama3_70b,128,50,179168
+llama3_70b,128,5,181536
+llama3_70b,128,51,164256
+llama3_70b,128,53,170336
+llama3_70b,128,56,172832
+llama3_70b,128,54,180352
+llama3_70b,128,52,171392
+llama3_70b,128,61,170944
+llama3_70b,128,60,185215
+llama3_70b,128,59,178624
+llama3_70b,128,58,175136
+llama3_70b,128,57,178016
+llama3_70b,128,55,187232
+llama3_70b,128,6,177248
+llama3_70b,128,63,182560
+llama3_70b,128,62,169088
+llama3_70b,128,64,175520
+llama3_70b,128,65,178944
+llama3_70b,128,66,172512
+llama3_70b,128,68,174912
+llama3_70b,128,7,165088
+llama3_70b,128,69,179840
+llama3_70b,128,67,175008
+llama3_70b,128,74,175136
+llama3_70b,128,70,176320
+llama3_70b,128,73,176480
+llama3_70b,128,72,175904
+llama3_70b,128,71,187936
+llama3_70b,128,76,176800
+llama3_70b,128,79,172512
+llama3_70b,128,75,184416
+llama3_70b,128,8,172160
+llama3_70b,128,78,184096
+llama3_70b,128,77,171424
+llama3_70b,128,80,175872
+llama3_70b,128,82,175168
+llama3_70b,128,81,179968
+llama3_70b,128,83,174528
+llama3_70b,128,84,186240
+llama3_70b,128,88,186080
+llama3_70b,128,85,170880
+llama3_70b,128,87,166848
+llama3_70b,128,86,174336
+llama3_70b,128,89,187264
+llama3_70b,128,9,169856
+llama3_70b,128,90,176448
+llama3_70b,128,91,178208
+llama3_70b,128,92,184832
+llama3_70b,128,93,173056
+llama3_70b,128,94,178656
+llama3_70b,128,95,184032
+llama3_70b,128,96,164832
+llama3_70b,128,97,172640
+llama3_70b,128,98,175136
+llama3_70b,16,11,21920
+llama3_70b,128,99,172096
+llama3_70b,16,12,21216
+llama3_70b,16,10,26368
+llama3_70b,16,1,26496
+llama3_70b,16,13,28384
+llama3_70b,16,100,30304
+llama3_70b,16,14,20320
+llama3_70b,16,15,24832
+llama3_70b,16,16,24832
+llama3_70b,16,17,22080
+llama3_70b,16,19,26208
+llama3_70b,16,18,27264
+llama3_70b,16,2,24544
+llama3_70b,16,24,25856
+llama3_70b,16,21,26080
+llama3_70b,16,20,33056
+llama3_70b,16,23,25248
+llama3_70b,16,22,23744
+llama3_70b,16,25,21984
+llama3_70b,16,27,23232
+llama3_70b,16,26,30496
+llama3_70b,16,28,20800
+llama3_70b,16,30,18720
+llama3_70b,16,29,27712
+llama3_70b,16,31,25888
+llama3_70b,16,3,24864
+llama3_70b,16,32,19072
+llama3_70b,16,33,25216
+llama3_70b,16,34,23136
+llama3_70b,16,37,23456
+llama3_70b,16,36,20416
+llama3_70b,16,35,29600
+llama3_70b,16,38,24256
+llama3_70b,16,40,23488
+llama3_70b,16,4,25792
+llama3_70b,16,39,27072
+llama3_70b,16,41,25088
+llama3_70b,16,42,28544
+llama3_70b,16,44,24384
+llama3_70b,16,43,28672
+llama3_70b,16,45,26720
+llama3_70b,16,46,14528
+llama3_70b,16,47,21856
+llama3_70b,16,48,21632
+llama3_70b,16,49,25536
+llama3_70b,16,5,20160
+llama3_70b,16,52,14624
+llama3_70b,16,51,23040
+llama3_70b,16,50,31392
+llama3_70b,16,53,21760
+llama3_70b,16,55,24128
+llama3_70b,16,56,30752
+llama3_70b,16,54,27072
+llama3_70b,16,57,25600
+llama3_70b,16,58,21408
+llama3_70b,16,6,27136
+llama3_70b,16,59,26528
+llama3_70b,16,60,19360
+llama3_70b,16,61,23392
+llama3_70b,16,62,27296
+llama3_70b,16,63,21440
+llama3_70b,16,64,28512
+llama3_70b,16,65,21408
+llama3_70b,16,67,25760
+llama3_70b,16,66,28128
+llama3_70b,16,69,28896
+llama3_70b,16,68,26368
+llama3_70b,16,7,20320
+llama3_70b,16,70,31712
+llama3_70b,16,71,22848
+llama3_70b,16,72,24704
+llama3_70b,16,73,27296
+llama3_70b,16,74,25056
+llama3_70b,16,75,25216
+llama3_70b,16,76,25344
+llama3_70b,16,77,28416
+llama3_70b,16,78,24736
+llama3_70b,16,79,21760
+llama3_70b,16,8,26592
+llama3_70b,16,80,28640
+llama3_70b,16,82,18592
+llama3_70b,16,81,27008
+llama3_70b,16,83,31968
+llama3_70b,16,84,23488
+llama3_70b,16,85,20320
+llama3_70b,16,86,30048
+llama3_70b,16,88,25952
+llama3_70b,16,87,27296
+llama3_70b,16,89,24320
+llama3_70b,16,9,23072
+llama3_70b,16,90,26304
+llama3_70b,16,91,21248
+llama3_70b,16,92,30400
+llama3_70b,16,93,17536
+llama3_70b,16,94,23328
+llama3_70b,16,95,23264
+llama3_70b,16,96,25088
+llama3_70b,16,98,32960
+llama3_70b,16,99,19872
+llama3_70b,16,97,29536
+llama3_70b,32,1,45024
+llama3_70b,32,10,40640
+llama3_70b,32,100,44672
+llama3_70b,32,11,48448
+llama3_70b,32,13,50720
+llama3_70b,32,14,50688
+llama3_70b,32,15,47872
+llama3_70b,32,12,46656
+llama3_70b,32,17,50528
+llama3_70b,32,16,42496
+llama3_70b,32,18,43328
+llama3_70b,32,19,45568
+llama3_70b,32,2,48064
+llama3_70b,32,22,44864
+llama3_70b,32,21,50176
+llama3_70b,32,20,49888
+llama3_70b,32,23,50304
+llama3_70b,32,24,47328
+llama3_70b,32,25,45376
+llama3_70b,32,27,42016
+llama3_70b,32,26,53024
+llama3_70b,32,28,52448
+llama3_70b,32,29,48256
+llama3_70b,32,3,48608
+llama3_70b,32,30,51360
+llama3_70b,32,32,45120
+llama3_70b,32,31,54368
+llama3_70b,32,36,47296
+llama3_70b,32,34,46976
+llama3_70b,32,33,46432
+llama3_70b,32,37,44192
+llama3_70b,32,35,42912
+llama3_70b,32,38,46816
+llama3_70b,32,4,48928
+llama3_70b,32,39,49376
+llama3_70b,32,40,52224
+llama3_70b,32,42,42688
+llama3_70b,32,43,50976
+llama3_70b,32,41,51200
+llama3_70b,32,44,46112
+llama3_70b,32,45,50400
+llama3_70b,32,46,51648
+llama3_70b,32,47,50560
+llama3_70b,32,49,48192
+llama3_70b,32,48,50432
+llama3_70b,32,50,51616
+llama3_70b,32,52,52576
+llama3_70b,32,53,47648
+llama3_70b,32,51,44928
+llama3_70b,32,5,46976
+llama3_70b,32,54,44480
+llama3_70b,32,55,44320
+llama3_70b,32,56,45984
+llama3_70b,32,59,45760
+llama3_70b,32,58,42336
+llama3_70b,32,57,50976
+llama3_70b,32,6,54368
+llama3_70b,32,61,51680
+llama3_70b,32,60,43456
+llama3_70b,32,62,37344
+llama3_70b,32,63,49344
+llama3_70b,32,64,52512
+llama3_70b,32,65,48736
+llama3_70b,32,66,46496
+llama3_70b,32,67,37696
+llama3_70b,32,68,48896
+llama3_70b,32,69,53728
+llama3_70b,32,7,49152
+llama3_70b,32,70,54144
+llama3_70b,32,71,43424
+llama3_70b,32,72,49408
+llama3_70b,32,73,40864
+llama3_70b,32,74,48768
+llama3_70b,32,75,55712
+llama3_70b,32,76,51072
+llama3_70b,32,78,50048
+llama3_70b,32,77,43200
+llama3_70b,32,79,52416
+llama3_70b,32,8,48736
+llama3_70b,32,80,41376
+llama3_70b,32,82,47136
+llama3_70b,32,81,53088
+llama3_70b,32,83,48704
+llama3_70b,32,84,47936
+llama3_70b,32,86,50912
+llama3_70b,32,85,54880
+llama3_70b,32,87,57760
+llama3_70b,32,88,45728
+llama3_70b,32,89,48448
+llama3_70b,32,9,58240
+llama3_70b,32,90,41760
+llama3_70b,32,91,45760
+llama3_70b,32,92,40864
+llama3_70b,32,95,41344
+llama3_70b,32,93,48256
+llama3_70b,32,94,52064
+llama3_70b,32,96,41408
+llama3_70b,32,97,49248
+llama3_70b,32,98,43520
+llama3_70b,32,99,50976
+llama3_70b,64,10,78528
+llama3_70b,64,1,72320
+llama3_70b,64,100,81856
+llama3_70b,64,11,85344
+llama3_70b,64,12,87552
+llama3_70b,64,14,80320
+llama3_70b,64,13,97376
+llama3_70b,64,15,82624
+llama3_70b,64,16,87456
+llama3_70b,64,17,82368
+llama3_70b,64,18,77216
+llama3_70b,64,19,88768
+llama3_70b,64,2,83232
+llama3_70b,64,20,84064
+llama3_70b,64,21,87456
+llama3_70b,64,22,82688
+llama3_70b,64,24,88096
+llama3_70b,64,25,84928
+llama3_70b,64,23,86240
+llama3_70b,64,26,85152
+llama3_70b,64,27,84704
+llama3_70b,64,28,92416
+llama3_70b,64,29,82144
+llama3_70b,64,3,77728
+llama3_70b,64,30,92192
+llama3_70b,64,31,89376
+llama3_70b,64,32,77888
+llama3_70b,64,34,89728
+llama3_70b,64,33,95200
+llama3_70b,64,35,84544
+llama3_70b,64,37,82240
+llama3_70b,64,36,80832
+llama3_70b,64,39,87808
+llama3_70b,64,4,85632
+llama3_70b,64,38,83712
+llama3_70b,64,40,93664
+llama3_70b,64,41,83712
+llama3_70b,64,42,86784
+llama3_70b,64,43,89760
+llama3_70b,64,44,92416
+llama3_70b,64,46,82368
+llama3_70b,64,47,83360
+llama3_70b,64,45,76736
+llama3_70b,64,48,80224
+llama3_70b,64,49,94720
+llama3_70b,64,5,81216
+llama3_70b,64,50,85312
+llama3_70b,64,51,85920
+llama3_70b,64,52,86624
+llama3_70b,64,54,90752
+llama3_70b,64,53,85152
+llama3_70b,64,55,87136
+llama3_70b,64,56,82400
+llama3_70b,64,57,89760
+llama3_70b,64,58,79040
+llama3_70b,64,59,87296
+llama3_70b,64,6,74624
+llama3_70b,64,60,84128
+llama3_70b,64,61,84480
+llama3_70b,64,62,79616
+llama3_70b,64,63,91360
+llama3_70b,64,64,80896
+llama3_70b,64,65,87424
+llama3_70b,64,66,85120
+llama3_70b,64,67,93056
+llama3_70b,64,68,88320
+llama3_70b,64,7,85792
+llama3_70b,64,69,83680
+llama3_70b,64,70,75520
+llama3_70b,64,71,78016
+llama3_70b,64,72,77760
+llama3_70b,64,74,85216
+llama3_70b,64,73,91424
+llama3_70b,64,77,94784
+llama3_70b,64,75,92448
+llama3_70b,64,76,90016
+llama3_70b,64,8,82848
+llama3_70b,64,79,88512
+llama3_70b,64,78,86816
+llama3_70b,64,80,88512
+llama3_70b,64,81,92736
+llama3_70b,64,82,82336
+llama3_70b,64,83,90464
+llama3_70b,64,84,87040
+llama3_70b,64,85,90304
+llama3_70b,64,86,87424
+llama3_70b,64,88,78880
+llama3_70b,64,87,92160
+llama3_70b,64,89,91520
+llama3_70b,64,9,84000
+llama3_70b,64,91,76800
+llama3_70b,64,90,81120
+llama3_70b,64,93,79904
+llama3_70b,64,92,91488
+llama3_70b,64,94,87168
+llama3_70b,64,95,83968
+llama3_70b,64,96,95424
+llama3_70b,64,97,89344
+llama3_70b,64,98,90656
+llama3_70b,64,99,86112
